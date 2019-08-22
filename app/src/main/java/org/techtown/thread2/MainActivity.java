@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView textView;
 
-    MainHandler handler;
+    MainHandler handler; //
 
 
     @Override
